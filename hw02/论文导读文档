@@ -58,7 +58,7 @@ AuditFee_{it} = β₀ + β₁Treat_{i}×Post_{t} + γX_{it} + μ_{i} + λ_{t} + 
 ---
 
 ## 五、配图与图注
-
+![表3 基准回归结果](https://github.com/wangxiaomin2026/hw02/raw/main/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%202026-03-16%20192555.png)
 
 ---
 
